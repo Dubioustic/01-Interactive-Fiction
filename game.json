@@ -1,0 +1,48 @@
+{
+    "passages": [
+      {
+        "text": "Go North -> [[Main Road]]\nGo South -> [[Other Road]]",
+        "links": [
+          {
+            "name": "Main Road",
+            "link": "Main Road",
+            "pid": "2"
+          },
+          {
+            "name": "Other Road",
+            "link": "Other Road",
+            "pid": "3"
+          }
+        ],
+        "name": "Abadoned Home",
+        "pid": "1",
+        "position": {
+          "x": "412",
+          "y": "164.5"
+        }
+      },
+      {
+        "text": "Double-click this passage to edit it.",
+        "name": "Main Road",
+        "pid": "2",
+        "position": {
+          "x": "275",
+          "y": "293.5"
+        }
+      },
+      {
+        "text": "Double-click this passage to edit it.",
+        "name": "Other Road",
+        "pid": "3",
+        "position": {
+          "x": "665",
+          "y": "299.5"
+        }
+      }
+    ],
+    "name": "Zombie Game",
+    "startnode": "1",
+    "creator": "Twine",
+    "creator-version": "2.3.12",
+    "ifid": "C3D0FDCC-E6D7-4FCE-96FB-FADD31184125"
+  }
